@@ -3,6 +3,7 @@ Bem-vindo ao repositório do projeto "Bloodborne", uma aplicação web simples d
 
 ## Como Utilizar Este Projeto
 Abra o arquivo index.html em seu navegador para acessar a aplicação.
+<br>
 Experimente clicar nos botões abaixo da caixa de texto para ver a troca de imagens de fundo.
 
 git clone https://github.com/seu-usuario/projeto-bloodborne.git
