@@ -9,7 +9,7 @@ Experimente clicar nos botões abaixo da caixa de texto para ver a troca de imag
 git clone https://github.com/Felipe020507/projeto-bloodborne.git
 
 ## Licença
-Este projeto está licenciado sob a [Felipe Casale]. 
+Este projeto está licenciado sob Felipe Casale. 
 
 ## Contato
 Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
