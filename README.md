@@ -6,7 +6,7 @@ Abra o arquivo index.html em seu navegador para acessar a aplicação.
 <br>
 Experimente clicar nos botões abaixo da caixa de texto para ver a troca de imagens de fundo.
 
-git clone https://github.com/Felipe020507/projeto-bloodborne.git
+git clone https://github.com/Fcasale-dev/projeto-bloodborne
 
 ## Licença
 Este projeto está licenciado sob Felipe Casale. 
